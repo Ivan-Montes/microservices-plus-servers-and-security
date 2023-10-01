@@ -26,3 +26,7 @@ replay_pid*
 
 # Vault
 /vault/vault.exe
+/vault/vaultCommands.txt
+
+# Keycloak
+/keycloak
