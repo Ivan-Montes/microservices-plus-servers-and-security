@@ -9,7 +9,7 @@ List of controllers
 	- MainController: authorization required through api-gateway
 	- SecondaryController: free access
 	
-##### About Message-Broker RabbitMQ
+#### About Message-Broker RabbitMQ
 
 You could use whatever [these methods](https://www.rabbitmq.com/download.html) for adding your own server
 
