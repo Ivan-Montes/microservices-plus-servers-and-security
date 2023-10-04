@@ -2,7 +2,7 @@
 
 Test project with microservices + eureka + config server + message broker + openfeign + vault + api-gateway + keycloak 
 
-#### basic-microservice
+#### About basic-microservice
 
 List of controllers
 
@@ -14,14 +14,14 @@ List of controllers
 You could use whatever [these methods](https://www.rabbitmq.com/download.html) for adding your own server
 
 
-#### Api Gateway
+#### About Api Gateway
 
 Configured in port 8080
 
 
 #### About Vault HashiCorp
 
-Use [this installers](https://developer.hashicorp.com/vault/downloads). In this project It's used the Windows binaries
+Use [these installers](https://developer.hashicorp.com/vault/downloads). In this project It's used Windows binaries
 
 ```
 vault server --dev --dev-root-token-id="00000000-0000-0000-0000-000000000000"
