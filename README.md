@@ -6,8 +6,14 @@ Test project with microservices + eureka + config server + message broker + open
 
 List of controllers
 
-	- MainController: authorization required through api-gateway
-	- SecondaryController: free access
+   - MainController: authorization required through api-gateway
+   - SecondaryController: free access
+	
+	
+#### About medium-microservice
+
+Not configured to compare with basic-microservice
+
 	
 #### About Message-Broker RabbitMQ
 
