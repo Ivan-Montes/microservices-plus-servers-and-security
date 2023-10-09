@@ -48,7 +48,7 @@ vault kv put secret/basic-microservice @basic-microservices.secret.json
 
 #### Maintainers
 
-Just me, [Ivan](https://github.com/Ivan-Montes) :sweat_smile:
+Just me, [Iván](https://github.com/Ivan-Montes) :sweat_smile:
 
 
 #### Contributing
